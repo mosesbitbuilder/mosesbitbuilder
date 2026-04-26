@@ -8,4 +8,4 @@ Building AI-native apps for African markets. Shipping from Nairobi.
 
 *🛠️ Working with:* Python, JavaScript, AI APIs (Claude, GPT), and whatever ships fastest.
 
-*📫 Reach me:* [X](https://x.com/mosesbitbuilder) · [LinkedIn](https://linkedin.com/in/mosesbitbuilder)
+*📫 Reach me:* [X](https://x.com/mosesbitbuilder) · [LinkedIn](https://www.linkedin.com/in/moses-bitbuilder-325476406/)
